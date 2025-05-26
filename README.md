@@ -1,4 +1,6 @@
 # WP Dashboard Notes
+![Create an icon for a WordPress plugin named WP Dashboard Notes](https://github.com/user-attachments/assets/312b1804-bc46-4f26-abf4-a3fddf8c727e)
+
 A simple WordPress plugin for personal notes in the admin dashboard.
 
 ![Screenshot 2025-05-22 at 15-01-17 Notes ‹ WordpressDevT](https://github.com/user-attachments/assets/b6cb1394-4798-4b17-b692-c92a7494e4bb)
