@@ -1,9 +1,11 @@
 <?php
 /*
 Plugin Name: Dashboard Notes
+Plugin URI: https://github.com/Smoshed/WordPress-Plugins
 Description: A simple plugin for personal notes in the admin dashboard.
-Version: 1.0
+Version: 1.1
 Author: John Oltmans
+Author URI: https://www.johnoltmans.nl/
 */
 
 if (!defined('ABSPATH')) {
