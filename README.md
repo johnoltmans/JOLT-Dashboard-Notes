@@ -1,7 +1,5 @@
 # WP Dashboard Notes
-![Create an icon for a WordPress plugin named WP Dashboard Notes](https://github.com/user-attachments/assets/312b1804-bc46-4f26-abf4-a3fddf8c727e)
-
-<img src="https://github.com/user-attachments/assets/312b1804-bc46-4f26-abf4-a3fddf8c727e" alt="Image for the wordpress plugin" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/312b1804-bc46-4f26-abf4-a3fddf8c727e" alt="Image for the wordpress plugin" width="300" >
 
 
 A simple WordPress plugin for personal notes in the admin dashboard.
