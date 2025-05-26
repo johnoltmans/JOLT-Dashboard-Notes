@@ -4,7 +4,8 @@
 A simple WordPress plugin for personal notes in the admin dashboard.
 
 #
-# Download your plugin here
+# ![image](https://github.com/user-attachments/assets/82a1834d-5ad8-42c2-b077-5e0e13dee924)
+ Download your plugin here
 You can download your plugin here: https://github.com/Smoshed/WP-Dashboard-Notes/archive/refs/heads/main.zip
 #
 
