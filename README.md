@@ -19,6 +19,3 @@ You can download your plugin here: https://github.com/Smoshed/WP-Dashboard-Notes
 #
 # How to install the plugin.
 You can read https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-the-plugins for more info.
-#
-# Warning: Compliance with WordPress Guidelines
-Please be aware that while this plugin is safe to use and functions as intended, it does not fully comply with the standard guidelines set by WordPress. However, this plugin is legal and permissible to use. I am actively working to ensure that the plugin meets WordPress guidelines, but this process takes time. In the meantime, you can download the plugin from this page. If you have any concerns about its safety or functionality, you are welcome to review the plugin's code. Users are encouraged to exercise caution and consider this information before installation.
