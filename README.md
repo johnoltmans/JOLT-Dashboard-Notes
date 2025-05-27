@@ -3,6 +3,7 @@
 
 
 A simple WordPress plugin for personal notes in the admin dashboard.
+Privacy Focussed, safe and open source.
 
 #
 # Download your plugin here
