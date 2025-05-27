@@ -4,7 +4,7 @@
 A simple WordPress plugin for personal notes in the admin dashboard.<br>
 Privacy Focussed, safe and open source.
 #
-<h2>Download your plugin here</h2>
+# Download your plugin here
 You can download your plugin [here](https://github.com/johnoltmans/JOLT-Dashboard-Notes/archive/refs/heads/main.zip).
 #
 
