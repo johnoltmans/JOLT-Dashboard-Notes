@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/312b1804-bc46-4f26-abf4-a3fddf8c727e" alt="Image for the wordpress plugin" width="300" >
 
 
-A simple WordPress plugin for personal notes in the admin dashboard.
+A simple WordPress plugin for personal notes in the admin dashboard.<br>
 Privacy Focussed, safe and open source.
 
 #
