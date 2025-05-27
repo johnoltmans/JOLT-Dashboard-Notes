@@ -1,4 +1,4 @@
-# WP Dashboard Notes v1.1
+# JO Dashboard Notes v1.1
 <img src="https://github.com/user-attachments/assets/312b1804-bc46-4f26-abf4-a3fddf8c727e" alt="Image for the wordpress plugin" width="300" >
 
 
