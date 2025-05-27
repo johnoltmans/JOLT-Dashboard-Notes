@@ -1,13 +1,12 @@
 # JOLT™ Dashboard Notes
-<img src="https://github.com/user-attachments/assets/312b1804-bc46-4f26-abf4-a3fddf8c727e" alt="Image for the wordpress plugin" width="300" >
-
+<img src="https://github.com/user-attachments/assets/854da602-a6bc-4a3c-91cc-bbb666174317" alt="Image for the wordpress plugin" width="300" >
 
 A simple WordPress plugin for personal notes in the admin dashboard.<br>
 Privacy Focussed, safe and open source.
 
 #
 # Download your plugin here
-You can download your plugin here: https://github.com/Smoshed/WP-Dashboard-Notes/archive/refs/heads/main.zip
+You can download your plugin here: https://github.com/johnoltmans/JOLT-Dashboard-Notes/archive/refs/heads/main.zip
 #
 
 ![Screenshot 2025-05-22 at 15-01-17 Notes ‹ WordpressDevT](https://github.com/user-attachments/assets/b6cb1394-4798-4b17-b692-c92a7494e4bb)
