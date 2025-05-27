@@ -1,1 +1,1 @@
-Thank you for downloading this plugin. For the latest documentation and instructions, please visit my GitHub page at: https://github.com/Smoshed/WP-Dashboard-Notes.
+Thank you for downloading this plugin. For the latest documentation and instructions, please visit my GitHub page at: https://github.com/johnoltmans/JOLT-Dashboard-Notes
