@@ -6,6 +6,7 @@ Privacy Focussed, safe and open source.
 
 #
 # Download your plugin here
+#
 You can download your plugin [here](https://github.com/johnoltmans/JOLT-Dashboard-Notes/archive/refs/heads/main.zip).
 
 ![Screenshot 2025-05-22 at 15-01-17 Notes ‹ WordpressDevT](https://github.com/user-attachments/assets/b6cb1394-4798-4b17-b692-c92a7494e4bb)
