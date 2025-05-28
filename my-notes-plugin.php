@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: JOLT™ Dashboard Notes
-Plugin URI: https://github.com/Smoshed/WordPress-Plugins
+Plugin URI: https://github.com/johnoltmans/JOLT-Dashboard-Notes
 Description: A simple plugin for personal notes in the admin dashboard.
 Version: 1.3
 Author: John Oltmans
