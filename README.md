@@ -1,4 +1,4 @@
-# JOLT™ Dashboard Notes 1.2
+# JOLT™ Dashboard Notes 1.3
 <img src="https://github.com/user-attachments/assets/854da602-a6bc-4a3c-91cc-bbb666174317" alt="Image for the wordpress plugin" width="300" >
 
 A simple WordPress plugin for personal notes in the admin dashboard.<br>
