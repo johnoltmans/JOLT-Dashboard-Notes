@@ -6,6 +6,9 @@ Description: A simple plugin for personal notes in the admin dashboard.
 Version: 1.5
 Author: John Oltmans
 Author URI: https://www.johnoltmans.nl/
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
 */
 
 if (!defined('ABSPATH')) {
