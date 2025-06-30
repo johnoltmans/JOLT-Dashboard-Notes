@@ -27,7 +27,7 @@ You can read https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-th
 
 ## 🛡 License
 
-JOLT ThemeFork is open source software licensed under the [GNU General Public License v2.0 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+JOLT Dashboard Notes is open source software licensed under the [GNU General Public License v2.0 or later](https://www.gnu.org/licenses/gpl-2.0.html).
 
 ### ⚠️ Fair Use Reminder
 
