@@ -22,3 +22,16 @@ You can read how to install [here](https://github.com/johnoltmans/JOLT-Dashboard
 #
 # How to install the plugin.
 You can read https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-the-plugins for more info.
+
+---
+
+## 🛡 License
+
+JOLT ThemeFork is open source software licensed under the [GNU General Public License v2.0 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+
+### ⚠️ Fair Use Reminder
+
+This plugin is licensed under the GPL, which permits redistribution.  
+However, out of respect for the author's work, please do not republish it under your own name or branding.
+
+Contributions, forks, and suggestions are always welcome via GitHub.
