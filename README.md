@@ -6,7 +6,7 @@ Privacy Focussed, safe and open source.
 #
 ### Download your plugin here
 You can download your plugin [here](https://github.com/johnoltmans/JOLT-Dashboard-Notes/archive/refs/heads/main.zip).<br>
-You can read how to install [here](https://github.com/johnoltmans/JOLT-Dashboard-Notes?tab=readme-ov-file#how-to-install-the-plugin).
+You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki/How-to-install-the-plugins).
 #
 
 ![446592348-b6cb1394-4798-4b17-b692-c92a7494e4bb](https://github.com/user-attachments/assets/1974cc3b-adfb-4464-bf94-014ec4453e86)
