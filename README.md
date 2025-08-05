@@ -21,7 +21,7 @@ You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki
 
 #
 # How to install the plugin.
-You can read https://github.com/Smoshed/WordPress-Plugins/wiki/How-to-install-the-plugins for more info.
+You can read https://github.com/johnoltmans/WordPress-Plugins/wiki/How-to-install-the-plugins for more info.
 
 ---
 
