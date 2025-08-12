@@ -21,12 +21,6 @@ You can read how to install [here](https://github.com/johnoltmans/WordPress/wiki
 
 ![Screenshot 2025-06-18 at 14-12-03](https://github.com/user-attachments/assets/dfe1d772-2c92-4903-836d-75f44a16e7c6)
 
-#
-# How to install the plugin.
-You can read https://github.com/johnoltmans/WordPress-Plugins/wiki/How-to-install-the-plugins for more info.
-
----
-
 ## 🛡 Security, Privacy & Usage Policy
 
 To read more about my Security, privacy and Usage Policy,<br>
