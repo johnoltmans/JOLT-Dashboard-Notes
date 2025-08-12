@@ -2,7 +2,9 @@
 <img src="https://github.com/user-attachments/assets/3b3f5ce0-9271-42da-89f8-76c554963676" alt="Image for the wordpress plugin" width="300" >
 
 A simple WordPress plugin for personal notes in the admin dashboard.<br>
-Privacy Focussed, safe and open source.
+
+All the plugins and or themes that i present to you are [privacy focussed, secure and open source](https://github.com/johnoltmans/WordPress/blob/main/SECURITY.md).
+
 #
 ### Download your plugin here
 You can download your plugin [here](https://github.com/johnoltmans/JOLT-Dashboard-Notes/archive/refs/heads/main.zip).<br>
