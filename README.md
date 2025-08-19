@@ -1,5 +1,5 @@
 <h1>JOLT Dashboard Notes</h1>
-<img src="https://github.com/user-attachments/assets/3b3f5ce0-9271-42da-89f8-76c554963676" alt="Image for the wordpress plugin" width="300" >
+<img src="https://github.com/user-attachments/assets/733eee83-62ba-4e80-ae2e-44a66f6e1e79" alt="Image for the wordpress plugin" width="300" >
 
 A simple WordPress plugin for personal notes in the admin dashboard.<br>
 
