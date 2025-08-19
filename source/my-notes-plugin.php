@@ -6,7 +6,7 @@ Description: A simple plugin for personal notes in the admin dashboard.
 Version: 1.6
 Author: John Oltmans
 Author URI: https://www.johnoltmans.nl/
-License: GPL 3.0
+License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
 
